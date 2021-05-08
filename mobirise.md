@@ -433,25 +433,141 @@
 
 ### Topik #3: Finalisasi
 
-1. Menampilkan Logo Favicon
-2. Menampilkan Logo Favicon
-3. Menampilkan Logo Favicon
-4. Pengaturan SEO & Page URL
-5. Pengaturan SEO & Page URL
-6. Pengaturan SEO & Page URL
-7. Perbaikan Broken Link
-8. Perbaikan Broken Link
-9. Perbaikan Broken Link
-10. Pembuatan Link Order via Whatsapp
-11. Pembuatan Link Order via Whatsapp
-12. Pembuatan Link Order via Whatsapp
-13. Publish website ke Mobirise
-14. Publish website ke Mobirise
-15. Publish website ke Mobirise
-16. Tips Remove Banner
-17. Tips Remove Banner
-18. Publish Lokal
-19. Publish Lokal
+1. (Menampilkan Logo Favicon) - Icon kecil yang biasa tampil pada tab browser saat kita membuka suatu website adalah...
+
+   a. Logo perusahaan
+
+   b. Branding
+
+   **c. Favicon**
+
+   d. Icon
+
+2. (Menampilkan Logo Favicon) - Salah satu fungsi favicon pada suatu website adalah...
+
+   **a. Memperbaiki UX dan menambah profesional**
+
+   b. Mempermanis tampilan
+
+   c. Meningkatkan trafik pengunjung
+
+   d. Semua jawaban benar
+
+3. (Menampilkan Logo Favicon) - Apa saja langkah menampilkan favicon di mobirise?
+
+   **a. Menu Sidebar > Sites > Site Settings > Common > Disable Use Menu Logo**
+
+   b. Menu Sidebar > Sites > Site Settings > Common > Enable Use Menu Logo
+
+   c. Menu Sidebar > Pages > Site Settings > Common > Disable Use Menu Logo
+
+   d. Menu Sidebar > Pages > Site Settings > Common > Enable Use Menu Logo
+
+4. (Pengaturan SEO & Page URL) - Berikut ini kegunaan SEO untuk website adalah...
+
+   a. Memperbaiki UX dan menambah profesional
+
+   b. Mempermanis tampilan
+
+   **c. Meningkatkan trafik pengunjung**
+
+   d. Semua jawaban benar
+
+5. (Pengaturan SEO & Page URL) - Kegunaan link (hyperlink) pada suatu website ialah...
+
+   a. Untuk mencari koneksi
+
+   **b. Untuk menghubungkan halaman/situs**
+
+   c. Untuk menghubungkan antar server
+
+   d. Untuk menghubungkan antar domain
+
+6. (Pengaturan SEO & Page URL) - Yang merupakan singkatan untuk SEO yang benar adalah...
+
+   a. System Engine Optimization
+
+   b. System Engine Optimalization
+
+   c. Search Engine Optimalization
+
+   **d. Search Engine Optimization**
+
+7. (Perbaikan Broken Link) - Perbaikan broken link (link yang rusak) bertujuan untuk...
+
+   a. Agar link dapat terkoneksi dengan server
+
+   b. Agar link dapat terhubung dengan domain
+
+   **c. Agar link dapat terhubung dengan halaman lain**
+
+   d. Agar link bisa di klik
+
+8. (Perbaikan Broken Link) - Secara default (bawaan) link yang dibuat pada suatu komponen akan terhubung ke halaman?
+
+   **a. Mobirise**
+
+   b. Kosong
+
+   c. Ke halaman yang sama
+
+   d. Semua jawaban salah
+
+9. (Perbaikan Broken Link) - Pada jendela **Link to** saat memperbaiki broken link, untuk mengarahkan ke halaman project website kita, kita perlu memilih tab...
+
+   **a. Page**
+
+   b. Web Address
+
+   c. Email
+
+   d. Phone 
+
+10. (Pembuatan Link Order via Whatsapp) - Pada saat tombol **pesan sekarang** di klik, pelanggan seharusnya akan di arahkan ke website...
+
+    a. List Pesanan
+
+    b. Checkout
+
+    c. Pembayaran
+
+    d. Order Whatsapp
+
+11. (Pembuatan Link Order via Whatsapp) - Tools website yang digunakan untuk memperpendek link whatsapp adalah...
+
+    **a. create.wa.link**
+
+    b. create.wa.com
+
+    c. create.wa.id
+
+    d. create.wa.ly
+
+12. (Pembuatan Link Order via Whatsapp) - Pada jendela **Link to** saat memperbaiki link **pesan sekarang**, untuk mengarahkan ke situs Whatsapp, kita perlu memilih tab...
+
+    a. Page
+
+    **b. Web Address**
+
+    c. Email
+
+    d. Phone 
+
+13. (Publish website ke Mobirise) - Untuk mempublish ke server mobirise agar website kita bisa diakses melalui jaringan internet, kita perlu memilih menu...
+
+    a. 
+
+14. (Publish website ke Mobirise) -
+
+15. (Publish website ke Mobirise) -
+
+16. (Tips Remove Banner) -
+
+17. (Tips Remove Banner) -
+
+18. (Publish Lokal) -
+
+19. (Publish Lokal) -
 
 ------
 
