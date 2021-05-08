@@ -297,7 +297,7 @@
 
    d. Kontak Kami
 
-10. (Home - Rekomendasi Produk) - Dalam membuat segmen rekomendasi produk, kita menggunakan pilihan komponen dari kategori...
+10. (Home - Rekomendasi Produk) - Dalam membuat segmen rekomendasi produk pada halaman home, kita menggunakan pilihan komponen dari kategori...
 
     a. Forms
 
@@ -327,21 +327,105 @@
 
     **d. Halaman Delivery**
 
-13. (Home - Kontak) - 
+13. (Home - Kontak) - Berikut ini adalah tujuan dalam membuat segment kontak *kecuali*...
 
-14. (Home - Kontak) - 
+    a. Memberikan informasi kapan pengunjung website dapat menghubungi contact center
 
-15. (Home - Media Partner) - 
+    b. Memberikan informasi saluran kontak yang bisa dihubungi
 
-16. (Home - Media Partner) - 
+    c. Memberikan informasi email/telp yang bisa dihubungi
 
-17. (Halaman Shop) - 
+    **d. Memberikan informasi jasa pengiriman**
 
-18. (Halaman Shop) -
+14. (Home - Kontak) - Dalam membuat segmen kontak pada halaman home, kita menggunakan pilihan komponen dari kategori...
 
-19. (Halaman Delivery) - 
+    a. Forms
 
-20. (Halaman Delivery) -  
+    b. Features
+
+    c. Content
+
+    **d. Contact**
+
+15. (Home - Media Partner) - Pernyataan berikut yang benar soal segmen Media Partner adalah...
+
+    a. Segmen yang digunakan untuk melihat harga produk yang dijual
+
+    **b. Segmen yang digunakan untuk men-list media yang telah meliput**
+
+    c. Segmen yang digunakan untuk men-kontak media partner
+
+    d. Segmen yang digunakan untuk testimoni media
+
+16. (Home - Media Partner) - Aset digital apa yang tepat untuk digunakan dalam mengisi segmen media partner?
+
+    a. Foto pelanggan
+
+    **b. Logo perusahaan**
+
+    c. Icon sosial media
+
+    d. Foto pembuat website
+
+17. (Halaman Shop) - Halaman yang digunakan untuk menampilkan list produk yang dapat dibeli adalah halaman...
+
+    a. Home
+
+    b. Delivery
+
+    **c. Shop**
+
+    d. About Us
+
+18. (Halaman Shop) - Halaman shop menggunakan kurang lebih block/komponen yang sama dengan salah satu segmen pada halaman home. Segmen tersebut adalah...
+
+    a. Header
+
+    b. Testimonial
+
+    c. Contact
+
+    **d. Rekomendasi Produk**
+
+19. (Halaman Delivery) - Untuk memudahkan pembeli dalam mengetahui lokasi outlet, kita perlu membuat halaman...
+
+    a. Home
+
+    **b. Delivery**
+
+    c. Shop
+
+    d. About Us
+
+20. (Halaman Delivery) - Berikut langkah yang benar untuk menambahkan halaman baru pada project website kita yaitu...
+
+    **a. Menu Sidebar > Pages > Create New Page**
+
+    b. Menu Sidebar > Create New Page
+
+    c. Menu Sidebar > Account
+
+    d. Menu Sidebar > Help
+
+21. (Halaman About Us) - Halaman yang berisi informasi perusahaan seperti sejarah, visi-misi, dan cerita perjalanan perusahaan adalah halaman...
+
+    a. Home
+
+    b. Delivery
+
+    c. Shop
+
+    **d. About Us**
+
+22. (Halaman About Us) -  Untuk membuat segmen sambutan dan keunggulan produk, kita menggunakan block/komponen...
+
+    a. Team - Images & Videos
+
+    b. Team - Features
+
+    c. Content - Features
+
+    **d. Features - Sliders & Galleries**
 
 ------
 
