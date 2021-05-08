@@ -555,19 +555,73 @@
 
 13. (Publish website ke Mobirise) - Untuk mempublish ke server mobirise agar website kita bisa diakses melalui jaringan internet, kita perlu memilih menu...
 
-    a. 
+    **a. Publish > Pilih Opsi Mobirise > Publish**
 
-14. (Publish website ke Mobirise) -
+    b. Publish > Pilih Opsi FTP > Publish
 
-15. (Publish website ke Mobirise) -
+    c. Publish > Pilih Opsi Local Drive Folder > Publish
 
-16. (Tips Remove Banner) -
+    d. Publish
 
-17. (Tips Remove Banner) -
+14. (Publish website ke Mobirise) - Contoh alamat website yang menggunakan layanan publish dari mobirise adalah...
 
-18. (Publish Lokal) -
+    a. pizza-laris.com
 
-19. (Publish Lokal) -
+    b. pizza-laris.blogspot.com
+
+    **c. pizza-laris.mobirisesite.com**  
+
+    d. pizza-laris.mobirise.com  
+
+15. (Publish website ke Mobirise) - Agar cepat saat mempublish ulang bila kita merubah project website kita pada mobirise, kita mengaktifkan pilihan...
+
+    a. Enable to fast upload
+
+    **b. Publish changes only**
+
+    c. Load data only
+
+    d. Semua jawaban salah
+
+16. (Tips Remove Banner) - Pada saat mempublish webste yang kita buat dengan mobirise free, biasanya banner mobirise akan terlihat pada...
+
+    **a. Bagian atas**
+
+    b. Bagian bawah
+
+    c. Bagian atas dan bawah
+
+    d. Bagian tengah halaman
+
+17. (Tips Remove Banner) - Kita dapat merubah (menghilangkan) tampilan banner mobirise pada menu...
+
+    a. Publish
+
+    b. Account
+
+    **c. Site Settings > SEO & Analytics**
+
+    d. GDPR Compliance
+
+18. (Publish Lokal) - Publish lokal bertujuan agar...
+
+    a. Dapat membagikan file project siap publish
+
+    b. Dapat mempublish secara online di hosting dan domain sendiri
+
+    c. Dapat mengedit nya secara manual
+
+    **d. Semua jawaban benar**
+
+19. (Publish Lokal) - Dibawah ini yang tidak termasuk file hasil publish secara local adalah...
+
+    **a. PHP**
+
+    b. HTML
+
+    c. CSS
+
+    d. JS
 
 ------
 
