@@ -2,6 +2,10 @@
 
 
 
+## Deskripsi
+
+Kemajuan teknologi saat ini bukan hanya menghasilkan website yang keren tetapi juga tools untuk membuat website yang super keren dan mudah digunakan. Dengan tools tersebut, kamu yang bukan jagoan koding (programmer web) sekalipun mudah untuk membuat website sendiri dan yang memiliki nilai jual. Kelas ini akan mengajarkan kamu secara interaktif dan menyenangkan bagaimana proses pembuatan website tanpa koding dengan aplikasi Mobirise. Kami juga akan membagikan tips dan trik menarik dan tidak ketinggaln juga aset-aset digital yang siap kamu gunakan untuk kebutuhan praktik selama mengikuti kelas ini. Gimana? Udah siap untuk buat sesuatu yang menarik? Yuk buruan gabung ke kelasnya!
+
 ## Daftar Topik Pembahasan & Materi
 
 - **Perkenalan & Persiapan**
