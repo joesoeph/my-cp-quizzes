@@ -535,7 +535,7 @@ Kemajuan teknologi saat ini bukan hanya menghasilkan website yang keren tetapi j
 
     c. Pembayaran
 
-    d. Order Whatsapp
+    **d. Order Whatsapp**
 
 11. (Pembuatan Link Order via Whatsapp) - Tools website yang digunakan untuk memperpendek link whatsapp adalah...
 
